@@ -4,3 +4,5 @@
  A responsive design was captured with CSS. At the end of the Quiz with Js, dynamism was gained by calculating the score.</p>
 
 ![](Ekran.gif)
+
+wordquizz.netlify.app
